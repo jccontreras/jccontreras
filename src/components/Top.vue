@@ -10,18 +10,27 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
-        <li class="nav-item active">
+        <li class="nav-item">
           <router-link class="nav-link linkcolor" :to="{name: 'about'}">
             About me
           </router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
+          <router-link class="nav-link linkcolor" :to="{name: 'myprojects'}">
+            My Projects
+          </router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <router-link class="nav-link linkcolor" :to="{name: 'contactme'}">
+            Contact me
+          </router-link>
         </li>
       </ul>
+    </div>
+    <div style="float: right;">
+      <a href="https://github.com/jccontreras" target="_blank">
+        <img src="@/assets/github.png" style="max-height: 30px; max-width: 30px">
+      </a>
     </div>
   </nav>
 </template>
