@@ -7,6 +7,8 @@
       <h6 class="card-subtitle mb-2 text-muted">contact me soon</h6>
       <p class="card-text">
         <img src="@/assets/whatsapp.png" style="max-height: 30px; max-width: 30px">
+        <img src="@/assets/telegram.png" style="max-height: 30px; max-width: 30px;
+        margin-left: 2px">
         +57 305 745 54 76
       </p>
       <p class="card-text">

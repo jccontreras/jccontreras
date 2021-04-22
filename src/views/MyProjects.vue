@@ -9,7 +9,7 @@
             <h5 class="card-title">Kajisa S.A.S</h5>
             <h6 class="card-subtitle mb-2 text-muted">Colombian Accounting Firm</h6>
             <a class="card-text" href="https://kajisa.com.co/" target="_blank">
-              <button type="button" class="btn btn-dark">Go to site now</button>
+              <button type="button" class="btn btn-dark">Go to web site now</button>
             </a>
           </div>
         </div>
@@ -21,7 +21,7 @@
             <h5 class="card-title">The Juice Maker</h5>
             <h6 class="card-subtitle mb-2 text-muted">Music Producer</h6>
             <a class="card-text" href="https://thejuicemaker-9fd65.web.app/" target="_blank">
-              <button type="button" class="btn btn-dark">Go to site now</button>
+              <button type="button" class="btn btn-dark">Go to web site now</button>
             </a>
           </div>
         </div>
@@ -33,7 +33,7 @@
             <h5 class="card-title">Afin Encryptor</h5>
             <h6 class="card-subtitle mb-2 text-muted">University Project</h6>
             <a class="card-text" href="https://encryptorafin.web.app/" target="_blank">
-              <button type="button" class="btn btn-dark">Go to site now</button>
+              <button type="button" class="btn btn-dark">Go to web site now</button>
             </a>
           </div>
         </div>

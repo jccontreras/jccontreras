@@ -31,6 +31,10 @@
       <a href="https://github.com/jccontreras" target="_blank">
         <img src="@/assets/github.png" style="max-height: 30px; max-width: 30px">
       </a>
+      <a href="https://www.linkedin.com/in/juan-camilo-contreras-chacon-694438116/"
+         target="_blank" style="margin-left: 1em">
+        <img src="@/assets/linkedin.png" style="max-height: 30px; max-width: 30px">
+      </a>
     </div>
   </nav>
 </template>
