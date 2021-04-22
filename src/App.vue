@@ -1,12 +1,21 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+  <div id="app" class="container-fliud">
+    <top style="margin-bottom: 2em"/>
     <router-view/>
   </div>
 </template>
+
+<script>
+// @ is an alias to /src
+import Top from './components/Top.vue';
+
+export default {
+  name: 'Home',
+  components: {
+    Top,
+  },
+};
+</script>
 
 <style lang="scss">
 #app {
@@ -18,7 +27,7 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 200px;
 
   a {
     font-weight: bold;
