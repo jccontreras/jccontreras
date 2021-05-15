@@ -10,7 +10,7 @@
 import Top from './components/Top.vue';
 
 export default {
-  name: 'Home',
+  name: 'App',
   components: {
     Top,
   },
